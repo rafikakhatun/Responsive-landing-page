@@ -9,7 +9,7 @@ Showcasing services, about section, and contact form with beautiful layout and r
 
 ### 🖥️ Desktop View
 
-![Hero Section](./screenshots/hero-desktop.png)
+![Hero Section](./image/hero-desktop.png.png)
 
 ### 📱 Mobile View
 
