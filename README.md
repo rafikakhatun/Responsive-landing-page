@@ -13,7 +13,7 @@ Showcasing services, about section, and contact form with beautiful layout and r
 
 ### 📱 Mobile View
 
-![Mobile View](./screenshots/hero-mobile.png)
+![Mobile View](./image/mobile.png.png)
 
 >  Clean navigation, attractive hero section, modern services cards, and smooth contact form UI.
 
